@@ -3,9 +3,9 @@
 **Author**: Spencer Southern  
 **Date**: 09/15/2025 
 **IP Filing Reference**:  
-- Shepherding Method™ (Provisional: April 15, 2025)  
-- Preceding Timestamped IP: December 19, 2024 Filing  
-- Prior Art: Dated email records from 2017 onward  
+- Mint-to Logic™ (Provisional: April 15, 2025)  
+- Shepherds method/Shepherds Process/Shepehrds workflow/workflow Preceding Timestamped IP: December 19, 2024 Filing  
+- Prior Art: Dated email records and otehr documents from 2017 onward  
 
 ---
 
