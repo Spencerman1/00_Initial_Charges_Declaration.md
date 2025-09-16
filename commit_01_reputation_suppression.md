@@ -9,7 +9,7 @@ This commit captures intentional efforts to suppress the public identity, credib
 
 ✅ Traction metrics prior to deletion (if available)
 
-✅ Archived posts or screenshots demonstrating visibility prior to suppression
+✅ Archived posts or screenshots demonstrating visibility prior to suppression: To include comment from steven Dodsworth
 
 ✅ Email logs or platform notifications tied to account limitations
 
