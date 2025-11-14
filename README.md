@@ -1,2 +1,4 @@
-# 00_Initial_Charges_Declaration.md
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+00_Initial_Charges_Declaration.md
 A legally timestamped declaration documenting IP theft, systemic sabotage, reputational harm, national security violations, and emotional damages tied to the unauthorized use of the Mint-to Logic™ stack and RBGA™ protocols. Governed by sovereign infrastructure law.
